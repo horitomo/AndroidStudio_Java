@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kadai06_ih13a_19</string>
+    <string name="title">課題06 ○×ゲーム</string>
+    <string name="name">IH13A19 堀田知生</string>
+    <string name="resultLabel">勝敗：</string>
+    <string name="resultArea"></string>
+    <string name="reset">リセット</string>
+</resources>

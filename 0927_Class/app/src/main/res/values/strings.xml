@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">0927_Class</string>
+    <string name="titleGakuseki">学籍番号：</string>
+    <string name="titleClass">クラス：</string>
+    <string name="titleName">名前：</string>
+    <string name="submitButton">登録</string>
+</resources>

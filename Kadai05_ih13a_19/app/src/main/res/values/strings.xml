@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kadai05_ih13a_19</string>
+    <string name="title">課題05　じゃんけんアプリ</string>
+    <string name="name">IH13A19 堀田知生</string>
+    <string name="resultArea">0勝0敗0引き分け</string>
+    <string name="reset">戦績リセット</string>
+    <string name="winArea">0</string>
+    <string name="winLabel">勝</string>
+    <string name="defeat">0</string>
+    <string name="defeatLabel">敗</string>
+    <string name="draw">0</string>
+    <string name="drawLabel">引き分け</string>
+</resources>

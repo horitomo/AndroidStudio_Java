@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kadai07_IH13A_19</string>
+    <string name="start">スタート</string>
+    <string name="quiz">「アホウドリ」の名前の由来は何でしょう？</string>
+    <string name="ans1">アホーと鳴くから</string>
+    <string name="ans2">人間にすぐ捕まるから</string>
+    <string name="ans3">アホみたいな顔をしているから</string>
+    <string name="ans4">阿波踊りみたいに踊っているように飛ぶから</string>
+    <string name="anssubmit">回答</string>
+</resources>
